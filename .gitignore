@@ -1,0 +1,77 @@
+#################################
+# Unreal Engine Generated Files #
+#################################
+Build/*
+!Build/*/
+Build/*/**
+!Build/*/PakBlacklist*.txt
+!Build/**/*.ico
+*_BuiltData.uasset
+Saved/*
+Intermediate/*
+Plugins/**/Intermediate/*
+DerivedDataCache/*
+Binaries/
+
+#################################
+# Visual Studio Generated Files #
+#################################
+.vs/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.opendb
+*.opensdf
+*.sdf
+*.sln
+.vscode
+**/.history
+
+###################################
+# JetBrains Rider Generated Files #
+###################################
+# Cache Directory
+.idea
+
+# Solution and Project Files
+*.sln
+*.csproj
+*.sln.DotSettings
+*.sln.DotSettings.user
+
+
+#################################
+# Miscellaneous Generated Files #
+#################################
+*.gch
+*.pch
+*.so
+*.dylib
+*.dll
+*.mod
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.out
+*.app
+*.ipa
+*.slo
+*.lo
+*.o
+*.obj
+*.xcodeproj
+*.xcworkspace
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+.vsconfig
+SourceArt/**/*.png
+SourceArt/**/*.tga
