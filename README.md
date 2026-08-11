@@ -1,8 +1,10 @@
 Gra singleplayer oparta na przechodzeniu losowanych pomieszczeń w celu znalezienia 'Złotej Baby'
 
+![alt text](https://github.com/Pattxx/GottaGoDeeper/blob/main/GDDTitle.png "Title Screen")
 
 Drużyna Default Cubes
 Game Design Document - Gotta Go Deeper
+
 
 Informacje podstawowe
 
@@ -32,6 +34,8 @@ Ze względu na tematykę, atmosferę oraz poziom trudności, gra jest skierowana
 
 
 Omówienie rozgrywki.
+
+![alt text](https://github.com/Pattxx/GottaGoDeeper/blob/main/GGD.jpg "inGame Screen")
 
 Rozgrywka w Gotta Go Deeper opiera się na eksploracji losowo generowanych ciągów jaskiń przedstawionych z widoku z pierwszej osoby. Głównym celem gracza jest dotarcie do końca wygenerowanego systemu jaskin i zdobycie legendarnego skarbu na ich końcu - Złotej Baby. Podczas wyprawy gracz musi pokonywać przeszkody terenowe, rozwiązywać zagadki logiczne oraz zmierzyć się z niebezpieczeństwami zamieszkującymi mroczne korytarze jaskini. Kluczowym elementem rozgrywki jest zarządzanie zasobami. Gracz musi stale kontrolować poziom głodu bohatera i zdobywać pożywienie, aby uniknąć śmierci. Również ważne jest dbanie o lampę naftową, będącą jedynym źródłem światła podczas eksploracji. Jej utrata może znacząco utrudnić dalszą rozgrywkę. Ograniczona widoczność sprawia, że eksploracja wymaga ostrożności, planowania oraz uważnej obserwacji otoczenia.
 Wprowadzenie - Grę otwiera klimatyczny, ręcznie rysowany komiks paragrafowy, który w humorystyczny, a jednocześnie tajemniczy sposób zarysowuje tło fabularne oraz motywacje głównego bohatera. Wprowadza on gracza w świat inspirowany bieszczadzkim folklorem, prezentując legendę Złotej Baby, przedstawiając bohaterów oraz wydarzenia prowadzące do rozpoczęcia wyprawy.
